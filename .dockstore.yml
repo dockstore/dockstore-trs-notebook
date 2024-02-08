@@ -1,0 +1,7 @@
+version: 1.2
+notebooks:
+  - format: JUPYTER
+    language: PYTHON
+    path: /trs-notebook.ipynb
+    topic: This notebook demonstrates how to use TRS
+    publish: true
