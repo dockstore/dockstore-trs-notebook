@@ -3,5 +3,5 @@ notebooks:
   - format: JUPYTER
     language: PYTHON
     path: /trs-notebook.ipynb
-    topic: This notebook demonstrates how to use TRS
+    topic: This notebook demonstrates how to use the TRS API to retrieve workflows and its files
     #publish: true
